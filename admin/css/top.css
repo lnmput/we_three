@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background: #666;
+	color: #FFF;
+	font:"微软雅黑";
+	line-height: 120px;
+}
